@@ -1,6 +1,10 @@
 h1, h2 {
-    color: #114e8b;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #26b113;
+    font-family: 'Arial Narrow',' Arial', 'sans-serif';
+}
+
+h1{
+    color: #26b113;
 }
 
 #h1main {
