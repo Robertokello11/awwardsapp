@@ -1,17 +1,17 @@
-### Instagram appclone
+### AwwardsApp
 
 ### By Robert Okello
 
 ### Description
 
-This is a Django application that duplicates the intagram app where a user can view pictures,upload follow like and give a comment on the picture
+This application Award is an application in which a user can upload a project, view other users projects and also able to rate the project
 
 #### User Story
 
 - Click an image to enlarge
-- Search for different users
-- View different photos that have been uploaded by others
-- Comment, follow or unfollow other users on their profile.
+- Search for the projects on the search bar
+- View the projects and make your ratings
+- upload a project for it to be rated by other users
 
 #### Setup and Installation
 
